@@ -1,0 +1,7 @@
+__pycache__/ 
+.env 
+*.mp4 
+*.avi 
+*.h5 
+*.pt 
+__pycache__/ 

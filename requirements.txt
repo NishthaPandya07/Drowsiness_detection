@@ -1,0 +1,10 @@
+# Core dependencies for Drowsiness Detection Project
+tensorflow>=2.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+pygame>=2.0.0
+scipy>=1.7.0
+imutils>=0.5.4
+dlib>=19.22.0
+matplotlib>=3.4.0
+
